@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #222;
+}
+
+#baslik
+{
+    padding-left: 25%;
+}
+#user
+{
+    color: orange;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 10;
+}
+
+#saatbolum
+{
+    background-color: black;
+    width: 600px;
+    height: 200px;
+    margin-top: 10%;
+    border: #111 inset 10px;
+}
+
+#saat
+{
+    color: orange;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 1%;
+}
+
+#saat-aciklama
+{
+    color: orange;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 50;
+}
